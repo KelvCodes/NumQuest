@@ -28,7 +28,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/rock-paper-scissors.git  
+   git clone https://github.com/yourusername/numquest.git  
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
