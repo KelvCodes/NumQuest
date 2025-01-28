@@ -12,7 +12,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 - **🔧 Adjustable Difficulty**: Choose between different difficulty levels (Easy, Medium, Hard). 
 - **🖥 User-Friendly Interface**: Simple and clean interface for an enjoyable gaming experience.  
 - **🔍 Feedback Mechanism**: After each guess, the game will indicate whether the guessed number is too high or too low.  
-- **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
+-  **⏳ Attempt Limit**: Keep track of how many attempts you have left, adding a sense of urgency to the challenge.
 
 ---
 
