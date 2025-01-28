@@ -9,7 +9,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 
 ## 🌟 Features  
 - **🎲 Random Number Generation**: The game generates a random number that you need to guess.
-- **🤖 Interactive Gameplay**: Take on the computer and see who’s the ultimate champion!  
+- **🔧 Adjustable Difficulty**: Choose between different difficulty levels (Easy, Medium, Hard). 
 - **✨ Sleek Animations**: Smooth transitions and effects that bring the game to life.  
 - **🏆 Live Score Tracker**: Keep tabs on your wins, losses, and ties in real-time.  
 - **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
