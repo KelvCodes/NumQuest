@@ -17,8 +17,8 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 ---
 
 ## 🚀 How to Play  
-1. **Choose Your Move**: Click on your choice—🪨 Rock, 📄 Paper, or ✂️ Scissors.  
-2. **Battle the Computer**: Watch as the computer picks its move and reveals the winner!  
+1. **Generating Number Within System**: When the game starts, the system will generate a random number within the predefined range. 🎰.  
+2. **Time To Guess**: Watch as the computer picks its move and reveals the winner!  
 3. **Track Your Progress**: Check the score to see if you’re leading or need a comeback.  
 4. **Have Fun!** 🎊 The goal is simple: enjoy the game and beat the computer!  
 
