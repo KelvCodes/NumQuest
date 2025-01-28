@@ -20,7 +20,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 1. **Generating Number Within System**: When the game starts, the system will generate a random number within the predefined range. 🎰.  
 2. **Time To Guess**:  You will be prompted to enter your guess. 💭
 3. **Feedback Based On NUmber Guessed**: Check the score to see if you’re leading or need a comeback.  
-4. **Have Fun!** 🎊 The goal is simple: enjoy the game and beat the computer!  
+4. **Guess Right And Win** Once you guess correctly, you win! 🏆 If you run out of attempts, the game ends, and you’ll have the option to try again. 🔄  
 
 ---
 
