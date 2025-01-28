@@ -8,7 +8,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 ---
 
 ## 🌟 Features  
-- **🎨 Responsive Design**: Enjoy a seamless experience on any device, whether you’re on a desktop 🖥️ or mobile 📱.  
+- **🎲 Random Number Generation**: The game generates a random number that you need to guess.
 - **🤖 Interactive Gameplay**: Take on the computer and see who’s the ultimate champion!  
 - **✨ Sleek Animations**: Smooth transitions and effects that bring the game to life.  
 - **🏆 Live Score Tracker**: Keep tabs on your wins, losses, and ties in real-time.  
