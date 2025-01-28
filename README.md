@@ -11,7 +11,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 - **🎲 Random Number Generation**: The game generates a random number that you need to guess.
 - **🔧 Adjustable Difficulty**: Choose between different difficulty levels (Easy, Medium, Hard). 
 - **🖥 User-Friendly Interface**: Simple and clean interface for an enjoyable gaming experience.  
-- **🏆 Live Score Tracker**: Keep tabs on your wins, losses, and ties in real-time.  
+- **🔍 Feedback Mechanism**: After each guess, the game will indicate whether the guessed number is too high or too low.  
 - **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
 
 ---
