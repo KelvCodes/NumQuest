@@ -33,6 +33,7 @@ h1{
     text-align: center;
 }
 
+/* Style for the form element */
 form{
     background: rgba(0, 0, 0, 0.318);
     backdrop-filter: blur(7px);
