@@ -86,6 +86,7 @@ button:hover{
     transform: scale(1.1);
 }
 
+/* Active state for the button when clicked */
 button:active{
     background: #ff6f91;
     color: ;
