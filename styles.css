@@ -15,6 +15,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
  /* Background image properties */
     background: url("./bg.jpg");
     background-size: cover;
