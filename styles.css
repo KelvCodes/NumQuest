@@ -71,6 +71,7 @@ button{
     width: 150px;
     padding: 1rem 3rem;
 
+    /* Text styling */
     color: black;
     font-weight: 700;
     text-transform: uppercase;
