@@ -81,6 +81,7 @@ button{
     transition: .1s ease-in-out;
 }
 
+/* Hover effect for the button */
 button:hover{
     transform: scale(1.1);
 }
