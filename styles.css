@@ -74,7 +74,7 @@ button{
     /* Text styling */
     color: black;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: uppercase;/* Uppercase text */
     letter-spacing: 2px;
 
     cursor: pointer;
