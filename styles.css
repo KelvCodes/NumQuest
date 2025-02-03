@@ -99,6 +99,8 @@ button:active{
     font-weight: 700 ;
     font-size: 30px;
 }
+
+/* Style for the footer element */
 footer{
     padding-top: 30px;
 }
