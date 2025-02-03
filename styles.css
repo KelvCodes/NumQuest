@@ -61,6 +61,7 @@ input{
     margin: 0 auto;
 }
 
+/* Style for the button element */
 button{
     background: orange;
     border: none;
