@@ -78,7 +78,7 @@ button{
     letter-spacing: 2px;
 
     cursor: pointer;
-    transition: .1s ease-in-out;
+    transition: .1s ease-in-out; /* Smooth transition effect */
 }
 
 /* Hover effect for the button */
