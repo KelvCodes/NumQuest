@@ -16,6 +16,8 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 
 ---
 
+⚙ 🛠 
+
 ## 🚀 How to Play  
 1. **Generating Number Within System**: When the game starts, the system will generate a random number within the predefined range. 🎰.  
 2. **Time To Guess**:  You will be prompted to enter your guess. 💭
