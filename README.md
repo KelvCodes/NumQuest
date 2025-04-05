@@ -47,7 +47,7 @@ A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS*
 
 ## 🤝 Contributing  
 
-Want to add new features or improve Nu ? We’d love your help! 💡  
+Want to add new features or improve Num ? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
